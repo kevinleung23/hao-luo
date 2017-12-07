@@ -1,0 +1,19 @@
+{
+  "name": "hao-luo",
+  "version": "0.0.1",
+  "description": "Proud owner of hao-luo NPM package. All rights reserved.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KSLHacks/hao-luo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kevin-leung": "0.0.4"
+  }
+}
