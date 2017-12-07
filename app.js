@@ -7,7 +7,7 @@ import KevinLeung from 'kevin-leung'
 
 // Do something not so impressive
 const haoLuo = () => {
-  return KevinLeung() + 'is great.'
+  return KevinLeung() + ' Kevin is great.'
 }
 
 export default haoLuo
